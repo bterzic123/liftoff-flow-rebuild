@@ -7,7 +7,7 @@
     { "channel": "Apple Ads", "term": "ranked gym workouts", "headline": "You searched “ranked gym workouts”", "paywall_opens_on": "the next rank and its date" }
   ],
   "prices": { "yearly": "$79.99", "trial": "7 days", "source": "Liftoff’s own paywall and Apple’s purchase sheet in the capture" },
-  "today": { "text": "every install meets the same welcome, the same seven questions and the same “7 Days for Free”", "source": "audit_frames" },
+  "today": { "text": "each install meets the same welcome, the same seven questions and the same “7 Days for Free”", "source": "audit_frames" },
   "asks": ["How did you hear of us?", "What do you wish to achieve with Liftoff?", "Are you currently working out or looking to start?", "I am...", "How old are you?", "Which unit do you prefer?", "I weigh..."],
   "rebuild": "Pro opens on the rank and the date",
   "ideas": [
