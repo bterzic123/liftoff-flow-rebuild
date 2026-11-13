@@ -1,0 +1,20 @@
+{
+  "company": "Liftoff",
+  "url": "https://bterzic123.github.io/liftoff-flow-rebuild/",
+  "flows": [
+    { "channel": "Meta", "headline": "From your ad: what’s my rank?", "paywall_opens_on": "the next rank and its date", "note": "Shoulder Press is already picked" },
+    { "channel": "Meta", "headline": "From your ad: you need a target", "paywall_opens_on": "the next rank and its date", "note": "Pro leads with the one Liftoff just predicted, and its date" },
+    { "channel": "Apple Ads", "term": "ranked gym workouts", "headline": "You searched “ranked gym workouts”", "paywall_opens_on": "the next rank and its date" }
+  ],
+  "prices": { "yearly": "$79.99", "trial": "7 days", "source": "Liftoff’s own paywall and Apple’s purchase sheet in the capture" },
+  "today": { "text": "every install meets the same welcome, the same seven questions and the same “7 Days for Free”", "source": "audit_frames" },
+  "asks": ["How did you hear of us?", "What do you wish to achieve with Liftoff?", "Are you currently working out or looking to start?", "I am...", "How old are you?", "Which unit do you prefer?", "I weigh..."],
+  "rebuild": "Pro opens on the rank and the date",
+  "ideas": [
+    { "n": 1, "title": "Open Pro on their rank and the date they could reach the next one", "screen": "Pro", "outcome": "CR +15–20%" },
+    { "n": 2, "title": "Make the loader read their answers back", "screen": "Loader", "outcome": "CR +10–15%" },
+    { "n": 3, "title": "Start each ad install on the question its ad asked", "screen": "First rank", "outcome": "CR +5–15%" },
+    { "n": 4, "title": "Put your reviews next to the button, and ask for a rating after the first workout", "screen": "Pro", "outcome": "CR +10–15%" },
+    { "n": 5, "title": "Turn three trial screens into one timeline", "screen": "Pro", "outcome": "CR +3–8%" }
+  ]
+}
